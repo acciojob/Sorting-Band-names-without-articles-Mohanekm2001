@@ -1,1 +1,10 @@
-/* Your CSS code here. */
+/* Your CSS code here. */ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	margin: 5px 0;
+}
+
